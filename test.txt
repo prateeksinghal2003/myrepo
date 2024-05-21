@@ -22,3 +22,8 @@ void mergesort()
 {
   //
 }
+
+void insertionsort()
+{
+  //
+}
