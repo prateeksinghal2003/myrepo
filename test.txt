@@ -17,3 +17,8 @@ void quicksort()
  
   //
 }
+
+void mergesort()
+{
+  //
+}
